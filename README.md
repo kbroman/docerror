@@ -76,3 +76,20 @@ Either of the following works without error.
 
     R -e 'library(devtools);document()'
     R -e 'library(roxygen2);roxygenise()'
+
+### My session info
+
+    > devtools::session_info()
+    Session info------------------------------------------------------------------------------------------------------
+     setting  value
+     version  R version 3.1.1 (2014-07-10)
+     system   x86_64, darwin13.1.0
+     ui       X11
+     language en
+     collate  C
+     tz       America/Chicago
+    
+    Packages----------------------------------------------------------------------------------------------------------
+     package    * version    date       source
+     devtools   * 1.6.0.9000 2014-09-24 Github (hadley/devtools@51ebc3a)
+     rstudioapi   0.1        2014-03-27 CRAN (R 3.1.0)
