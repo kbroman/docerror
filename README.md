@@ -69,7 +69,7 @@ I get the following error:
 
 - The documentation of the dataset is modified to include
 
-      #' @name testdata
+       #' @name testdata
       
   And I replace the final line (`"testdata"`) with `NULL`.
   
