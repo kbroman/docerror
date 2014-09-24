@@ -13,3 +13,4 @@ Suggests:
     devtools,
     roxygen2
 License: CC0
+LazyData: true
