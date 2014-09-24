@@ -2,6 +2,7 @@
 #'
 #' a dataset for testing use of Roxygen2 to document datasets
 #'
+#' @name testdata
 #' @docType data
 #'
 #' @usage data(testdata)
@@ -12,4 +13,4 @@
 #'
 #' @examples
 #' data(testdata)
-"testdata"
+NULL
