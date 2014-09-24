@@ -67,11 +67,8 @@ I get the following error:
 
 ### Branch [use_name](https://github.com/kbroman/docerror/tree/use_name)
 
-- The documentation of the dataset is modified to include
-
-       #' @name testdata
-      
-  And I replace the final line (`"testdata"`) with `NULL`.
+- The documentation of the dataset is modified to include `#' @name testdata`,
+  and I replace the final line (`"testdata"`) with `NULL`.
   
 - I _don't_ include `LazyData: true` in the `DESCRIPTION` file.
 
