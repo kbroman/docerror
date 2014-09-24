@@ -1,4 +1,4 @@
-Package: testpkg
+Package: docerror
 Type: Package
 Title: Fake package to test Roxygen2 data documentation
 Version: 0.1-1
